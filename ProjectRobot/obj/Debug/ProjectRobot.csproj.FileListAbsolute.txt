@@ -1,0 +1,12 @@
+D:\DualFolder\CODER_CAMP\JavaScript\David\ProjectRobot\ProjectRobot\bin\ProjectRobot.dll.config
+D:\DualFolder\CODER_CAMP\JavaScript\David\ProjectRobot\ProjectRobot\bin\ProjectRobot.dll
+D:\DualFolder\CODER_CAMP\JavaScript\David\ProjectRobot\ProjectRobot\bin\ProjectRobot.pdb
+D:\DualFolder\CODER_CAMP\JavaScript\David\ProjectRobot\ProjectRobot\obj\Debug\ProjectRobot.dll
+D:\DualFolder\CODER_CAMP\JavaScript\David\ProjectRobot\ProjectRobot\obj\Debug\ProjectRobot.pdb
+D:\DualFolder\CODER_CAMP\JavaScript\David\ProjectRobot\ProjectRobot\obj\Debug\ProjectRobot.csprojResolveAssemblyReference.cache
+D:\DualFolder\CODER_CAMP\GITHUB\JavaScript\ProjectRobot\ProjectRobot\bin\ProjectRobot.dll.config
+D:\DualFolder\CODER_CAMP\GITHUB\JavaScript\ProjectRobot\ProjectRobot\bin\ProjectRobot.dll
+D:\DualFolder\CODER_CAMP\GITHUB\JavaScript\ProjectRobot\ProjectRobot\bin\ProjectRobot.pdb
+D:\DualFolder\CODER_CAMP\GITHUB\JavaScript\ProjectRobot\ProjectRobot\obj\Debug\ProjectRobot.csprojResolveAssemblyReference.cache
+D:\DualFolder\CODER_CAMP\GITHUB\JavaScript\ProjectRobot\ProjectRobot\obj\Debug\ProjectRobot.dll
+D:\DualFolder\CODER_CAMP\GITHUB\JavaScript\ProjectRobot\ProjectRobot\obj\Debug\ProjectRobot.pdb

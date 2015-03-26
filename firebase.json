@@ -1,0 +1,9 @@
+{
+  "firebase": "greengiantgraphics",
+  "public": "C:\\Users\\PLAHU\\Documents\\Visual Studio 2013\\BlogApp2015",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
